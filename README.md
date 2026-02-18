@@ -1,3 +1,10 @@
+summary:
+A network/security engineer needs to monitor system logs to detect potential malware or suspicious activity. Logs are collected from remote systems via an API and may contain metadata such as IP addresses, timestamps, actions, and status codes. Unusual patterns—like excessive requests from a single IP within a short time window—can indicate bot activity, brute-force attacks, or compromised hosts. The task is to automatically analyze these logs and flag suspicious IPs for further investigation.
+
+
+the phases/workflow of the project. 
+
+
 1. Collect Logs
 Retrieve log data from remote servers using an API (or local files), containing metadata such as timestamp, IP address, action, and status.
 
