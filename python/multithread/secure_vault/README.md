@@ -4,6 +4,7 @@ here it si a python program that allows the sensitive files to be encrypted  and
 
 
 -> here the encryption and decryption occurs using the master password. 
+
 -> the requirements are python 3 and cryptography library
 
 -> created  a folder 'vault files' that has some files in it.with that create a audit files.  
@@ -11,3 +12,9 @@ here it si a python program that allows the sensitive files to be encrypted  and
 -> for encryption  with the file path and use fernet library to encrypt the data, 
 
 -> for decryption with the file path , use fernet to decrypt the data. 
+
+
+
+
+<img width="371" height="296" alt="image" src="https://github.com/user-attachments/assets/865c7d3a-e584-4fa3-8000-7fdf92f99a6f" />
+<img width="371" height="296" alt="image" src="https://github.com/user-attachments/assets/865c7d3a-e584-4fa3-8000-7fdf92f99a6f" />
